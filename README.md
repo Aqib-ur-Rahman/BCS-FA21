@@ -1,2 +1,2 @@
 # BCS-FA21
-This repository will contain all the relevant material / resources that are usend throught the BS computer science's curriculum at Comsats university Islamabad
+This repository will contain all the relevant material/resources that are used throughout the BS computer science curriculum at Comsats University Islamabad
